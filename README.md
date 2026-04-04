@@ -2,7 +2,8 @@
 
 A one-page interactive Power BI dashboard built on 1,000 patient health records, answering 6 business questions across lifestyle, risk factors, and health segmentation.
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](<img width="1365" height="791" alt="Health_Dashboard" src="https://github.com/user-attachments/assets/22326117-bfbc-499b-aeb7-9c7007ae3e4a" />
+)
 
 ---
 
@@ -81,6 +82,6 @@ A one-page interactive Power BI dashboard built on 1,000 patient health records,
 
 **Bhavya** — Data Analyst  
 📍 New Delhi, India  
-🔗 [LinkedIn](https://linkedin.com/in/) | [GitHub](https://github.com/)  
-📚 Data Analytics with Generative AI — PW Skills (2025)  
+🔗 [LinkedIn](https://www.linkedin.com/in/bhavyakumar958/) | [GitHub](https://github.com/Bhavyakumar958)  
+📚 Data Analytics with Generative AI — PW Skills (2026)  
 🏦 Domain Experience: Banking (Indian Overseas Bank — RBI compliance, NPA analysis, KYC, fraud detection)
