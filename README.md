@@ -2,8 +2,7 @@
 
 A one-page interactive Power BI dashboard built on 1,000 patient health records, answering 6 business questions across lifestyle, risk factors, and health segmentation.
 
-![Dashboard Preview](<img width="1365" height="791" alt="Health_Dashboard" src="https://github.com/user-attachments/assets/22326117-bfbc-499b-aeb7-9c7007ae3e4a" />
-)
+![Dashboard Preview](https://github.com/Bhavyakumar958/Health-Activity-Analytics-Dashboard-Power-BI/blob/main/Health_Dashboard.png)
 
 ---
 
